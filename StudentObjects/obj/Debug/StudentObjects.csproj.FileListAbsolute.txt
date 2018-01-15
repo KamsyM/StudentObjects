@@ -1,0 +1,7 @@
+C:\Users\Kamsi\source\repos\StudentObjects\StudentObjects\bin\Debug\StudentObjects.exe.config
+C:\Users\Kamsi\source\repos\StudentObjects\StudentObjects\bin\Debug\StudentObjects.exe
+C:\Users\Kamsi\source\repos\StudentObjects\StudentObjects\bin\Debug\StudentObjects.pdb
+C:\Users\Kamsi\source\repos\StudentObjects\StudentObjects\obj\Debug\StudentObjects.csprojResolveAssemblyReference.cache
+C:\Users\Kamsi\source\repos\StudentObjects\StudentObjects\obj\Debug\StudentObjects.csproj.CoreCompileInputs.cache
+C:\Users\Kamsi\source\repos\StudentObjects\StudentObjects\obj\Debug\StudentObjects.exe
+C:\Users\Kamsi\source\repos\StudentObjects\StudentObjects\obj\Debug\StudentObjects.pdb
